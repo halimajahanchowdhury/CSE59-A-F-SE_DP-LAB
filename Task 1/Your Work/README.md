@@ -2,6 +2,15 @@
 
 ## Software Requirements Specification (SRS)
 
+## Preface
+
+This document provides the Software Requirements Specification (SRS) for the AI-Powered Smart Work Management Platform. It defines the system’s functionalities, user roles, performance requirements, security measures, and overall system architecture required for the successful development and deployment of the platform.
+
+The document serves as a guideline for developers, project managers, testers, and stakeholders to understand the system objectives, features, and technical requirements. The platform is designed to improve productivity, collaboration, workflow automation, and project management through intelligent AI-powered solutions.
+
+## Version History
+Version 1.0 – Initial SRS draft with project overview, objectives, and core modules.
+
 ----------
 
 # 1. Introduction
